@@ -378,7 +378,7 @@ body {
   background-color: var(--navyblue, #2e2f42);
   padding: 112px 0;
   background-image: url(../images/dark-hero-bg.png),
-    url(../images/img-office-m.jpg),
+    url(../images/img-office.jpg),
     linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7));
   background-repeat: no-repeat, no-repeat;
   background-position: center, center;
@@ -422,7 +422,7 @@ body {
       (min-resolution: 192dpi),
       (min-resolution: 2dppx) {
       background-image: url(../images/dark-hero-bg.png),
-        url(../images/img-office-d@1x.jpg),
+        url(../images/img-office-d@x.jpg),
         linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7));
     }
   }
